@@ -1,3 +1,8 @@
+* {
+  background-color: black;
+  text-align: center;
+}
+
 h1 {
   font-family: Verdana;
   font-weight: Normal;
@@ -7,6 +12,12 @@ h1 {
 }
 
 h4 {
-  color: Aquamarine;
   font-size: 16px;
+}
+
+a:visited,
+a:hover,
+a:link,
+a:active {
+  color: Aquamarine;
 }
